@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-    // comment
+    // コメント
     std::cout << "Hello World!!!" << std::endl;
     return 0;
 }
